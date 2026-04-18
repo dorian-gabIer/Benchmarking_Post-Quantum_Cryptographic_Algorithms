@@ -27,7 +27,7 @@ BENCHMARKING<br>POST-QUANTUM<br>CRYPTOGRAPHY
 
 <br>
 
-*Michal Kowalski · Doria Gabler · Jan Jankowski*
+*Michał Kowalski · Dorian Gabler · Jan Jankowski*
 
 <br>
 
