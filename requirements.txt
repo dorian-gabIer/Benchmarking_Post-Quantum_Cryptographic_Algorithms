@@ -7,6 +7,7 @@ liboqs-python==0.14.1
 # Scientific Computing
 numpy==2.4.4
 matplotlib==3.10.8
+cryptography==46.0.7
 
 # Jupyter Notebook
 jupyter==1.0.0
