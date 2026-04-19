@@ -27,7 +27,7 @@ BENCHMARKING<br>POST-QUANTUM<br>CRYPTOGRAPHY
 
 <br>
 
-*Michal Kowalski · Doria Gabler · Jan Jankowski*
+*Michał Kowalski · Dorian Gabler · Jan Jankowski*
 
 <br>
 
@@ -57,7 +57,7 @@ This project benchmarks three **NIST-standardized post-quantum cryptographic alg
 
 **ML-KEM** — Module-Lattice Key Encapsulation. Successor to Kyber. Replaces RSA and ECDH in key establishment protocols.
 
-**ML-DSA** — Module-Lattice Digital Signature. Successor to Dilithium. Lattice-based signatures with compact key sizes.
+**ML-DSA** — Module-Lattice Digital Signature. Successor to Dilithium. Lattice-based signatures optimized for highly efficient performance.
 
 **SLH-DSA** — Stateless Hash-Based Signature. Successor to SPHINCS+. Conservative construction grounded in symmetric primitives.
 
