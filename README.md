@@ -125,6 +125,6 @@ Each algorithm is evaluated across:
 
 <div align="center">
 <br>
-<code>Michal Kowalski · Doria Gabler · Jan Jankowski</code>
+<code>Michał Kowalski · Dorian Gabler · Jan Jankowski</code>
 <br><br>
 </div>
